@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MEKProjects !
-- 👀 I’m interested in building iOS and web apps.
-- 🌱 I’m currently learning Python language and I already know Swift and C.
+- 👀 I’m a web and iOS developer.
 - 💞️ I have two apps currently on the App Store: SpacerApp and WhereApp. You can check them out!
 - 📫 How to reach me: mekprojectteam@gmail.com
 
